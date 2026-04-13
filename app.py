@@ -5,7 +5,7 @@ from datetime import date
 import re
 
 # --- KONFIGURASI HALAMAN & SECURITY ---
-st.set_page_config(page_title="E-Perangkat KBC Presisi - MIN 1 CIAMIS", layout="wide", page_icon="🏫")
+st.set_page_config(page_title="APLIKASI RPP KBC - KKG KECAMATAN PANJALU", layout="wide", page_icon="🏫")
 
 # --- CSS TAMPILAN (Sudah Diperbaiki & Struktur Tetap Aman) ---
 st.markdown("""
