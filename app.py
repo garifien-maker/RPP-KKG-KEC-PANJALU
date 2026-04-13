@@ -58,9 +58,9 @@ with st.sidebar:
 
     st.markdown("""
     <div style='text-align: center; border-bottom: 1px solid #ffffff33; margin-bottom: 20px; padding-bottom: 10px;'>
-        <h2 style='color: white; margin-top:0px; font-size: 1.5em;'>E-Perangkat KBC Presisi</h2>
+        <h2 style='color: white; margin-top:0px; font-size: 1.5em;'>APLIKASI RPP KBC</h2>
         <p style='font-size:0.85em; font-style:italic; color:#c8e6c9;'>
-        "MIN 1 CIAMIS - Unggul, Maju, Mendunia."
+        "KKG KECAMATAN PANJALU - Copyright: @Agus Arifien."
         </p>
     </div>
     """, unsafe_allow_html=True)
